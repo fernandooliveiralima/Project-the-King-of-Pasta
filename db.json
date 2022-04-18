@@ -1,0 +1,81 @@
+{
+  "ingredients": {
+    "pastas": [
+      {
+        "id": 1,
+        "tipo": "Spaghetti"
+      },
+      {
+        "id": 2,
+        "tipo": "Penne"
+      },
+      {
+        "id": 3,
+        "tipo": "Rigatoni"
+      },
+      {
+        "id": 4,
+        "tipo": "Capellini"
+      }
+    ],
+    "sauces": [
+      {
+        "id": 1,
+        "tipo": "Tomato"
+      },
+      {
+        "id": 2,
+        "tipo": "White"
+      },
+      {
+        "id": 3,
+        "tipo": "Bolognesa"
+      },
+      {
+        "id": 4,
+        "tipo": "Garlic and Oil"
+      }
+    ],
+    "options": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Corn"
+      },
+      {
+        "id": 3,
+        "tipo": "Shredded Chicken"
+      },
+      {
+        "id": 4,
+        "tipo": "Carrot"
+      },
+      {
+        "id": 5,
+        "tipo": "Parmesan cheese"
+      },
+      {
+        "id": 6,
+        "tipo": "Egg"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Requested"
+    },
+    {
+      "id": 2,
+      "tipo": "In Production"
+    },
+    {
+      "id": 3,
+      "tipo": "Finished"
+    }
+  ],
+  "noodles": []
+}
